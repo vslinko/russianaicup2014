@@ -1,0 +1,10 @@
+*.swp
+/build.zip
+/local-runner.zip
+/local-runner/
+/python3-cgdk.zip
+/python3-cgdk/
+/src/RemoteProcessClient.py
+/src/Runner.py
+/src/__pycache__/
+/src/model/
